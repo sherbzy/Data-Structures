@@ -5,20 +5,20 @@ Note: I lost a majority of the labs from this class when my laptop broke in the 
 Course Description
 This course has three general components:
 1. Data structures
-   o What they are and how (and when) to use them
-   o Know how to design and program them
-   o Learn about the Standard Template Library
+   - What they are and how (and when) to use them
+   - Know how to design and program them
+   - Learn about the Standard Template Library
 
 2. C++ programming
-   o Extensions to stuff you already know (from CSCI 261 or equivalent)
-   o Pointers & dynamic memory management
-   o Templates
-   o Inheritance
+   - Extensions to stuff you already know (from CSCI 261 or equivalent)
+   - Pointers & dynamic memory management
+   - Templates
+   - Inheritance
 
 3. Analysis of algorithms
-   o How computer scientists measure performance
-   o How to analyze performance of an algorithm
-   o Performance of algorithms and data structure operations
+   - How computer scientists measure performance
+   - How to analyze performance of an algorithm
+   - Performance of algorithms and data structure operations
 
 
 
